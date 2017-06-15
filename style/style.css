@@ -1,0 +1,33 @@
+body{
+	background-color: #f8823c;
+	position: relative;
+	overflow: hidden;
+	padding: 0;
+	margin: 0;
+}
+section{
+	position:relative;
+	padding: 0;
+	margin: 0;
+}
+section.index-1{
+	background-color: green;	
+}
+section.index-2{
+	background-color: #2c5379;	
+}
+section.index-3{
+	background-color: #f8823c;
+}
+section.index-4{
+	background-color: #eb2142;	
+}
+h3
+{
+	padding: 0;
+	margin: 0;
+}
+.ruler
+{
+	float: right;
+}
